@@ -1,3 +1,3 @@
 # Tools
 
-(Embed Builder)[https://zira.bot/embedbuilder/]
+[Embed Builder](https://zira.bot/embedbuilder/)
