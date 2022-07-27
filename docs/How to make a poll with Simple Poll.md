@@ -26,3 +26,10 @@ date: 07262022 - 17:41:57
 
 The resulting poll answers are thumbs up/down. 
 ![](./img/simplePoll_06.png)
+
+---
+**Links**
+- [[!Slipbox]]
+
+## References
+- 

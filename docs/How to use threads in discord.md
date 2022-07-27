@@ -8,14 +8,14 @@ date: 07262022 - 13:13:49
 
 1. Someone has a topic to discuss.
 
-![[threads0.png|800x200]]
+![](./img/threads0.png)
 
 2. Someone else wants to discuss it as well. 
 - Hover over the message and click `Create Thread` then see this:
-![[threads1.png|400x600]]
+![](./img/threads1.png)
 
 3. Conversations are archived automatically after a time period.
-![[Pasted image 20220726133001.png|400x600]]
+![](./img/threads2.png)
 
 ---
 **Links**
